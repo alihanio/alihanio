@@ -7,7 +7,14 @@
 ###
 
 <h1 align="center">Hello 👋 I'm Alihan!</h1>
-<h2>A passionate Frontend developer from Kyrgyzstan</h2>
+<h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
+
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ###
 
@@ -32,8 +39,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alihanio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<hr/>
 
 ###
 
