@@ -7,6 +7,7 @@
 ###
 
 <h1 align="center">Hello 👋 I'm Alihan!</h1>
+<h2>A passionate Frontend developer from Kyrgyzstan</h2>
 
 ###
 
@@ -20,6 +21,8 @@
    <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
 </div>
 
+<hr/>
+
 ###
 
 <h2 align="center">🔥 My statistics 🔥 </h2>
@@ -29,6 +32,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alihanio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<hr/>
 
 ###
 
