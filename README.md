@@ -11,7 +11,6 @@
 ###
 
 <h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
-<hr/>
 
 ###
 
