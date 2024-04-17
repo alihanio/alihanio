@@ -5,13 +5,16 @@
 </div>
 
 ###
-
+<div>
 <h1 align="center">Hello 👋 I'm Alihan!</h1>
-<h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
+<h2 align="center">A passionate Frontend developer from Kyrgyzstan</h2>
+</div>
 
 ###
+<br/>
 
-<h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Libraries-Tools ⚒️</h3>
+<br/>
 
 ###
 
@@ -24,8 +27,10 @@
 <hr/>
 
 ###
+<br/>
 
-<h2 align="center">🔥 My statistics 🔥 </h2>
+<h3 align="center">🔥 My statistics 🔥 </h3>
+<br/>
 
 ###
 
