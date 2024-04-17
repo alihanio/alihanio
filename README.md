@@ -9,7 +9,6 @@
 <h1 align="center">Hello 👋 I'm Alihan!</h1>
 <h3 align="center">A passionate Frontend developer from Kyrgyzstan</h3>
 
-
 ###
 
 <h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
