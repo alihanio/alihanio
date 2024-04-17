@@ -13,17 +13,15 @@
 <h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite,vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite" />
     
-   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux" />
+   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux,vercel" />
 </div>
 
 ###
 
 <h2 align="center">🔥 My statistics 🔥 </h2>
-
-###
-
+<br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alihanio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
